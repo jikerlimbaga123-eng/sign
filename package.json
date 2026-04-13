@@ -1,8 +1,11 @@
 {
   "dependencies": {
-    "@mediapipe/camera_utils": "^0.3.1675466862",
-    "@mediapipe/drawing_utils": "^0.3.1675466124",
-    "@mediapipe/hands": "^0.4.1675469240",
-    "firebase": "^12.12.0"
+    "react": "^18.x.x",
+    "react-dom": "^18.x.x",
+    "react-scripts": "5.0.1"  ← kailangan ito!
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build"
   }
 }
